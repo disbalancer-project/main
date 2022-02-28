@@ -4,6 +4,7 @@ HOW TO INSTALL
 
 Linux version
 ⚫️ Download the file via 
+
 https://disbalancer.com/files/disbalancer-cli-linux-x64.zip
 ⚫️ Unzip to the folder
 ⚫️ Open the folder in a terminal
