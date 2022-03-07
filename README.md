@@ -8,7 +8,7 @@ Find your version follow this link:
 * Linux x32: https://github.com/disbalancer-project/main/releases/download/v0.0.4/launcher-disbalancer-go-client-linux-386  
 * Linux x64: https://github.com/disbalancer-project/main/releases/download/v0.0.4/launcher-disbalancer-go-client-linux-amd64  
 * Windows x32: https://github.com/disbalancer-project/main/releases/download/v0.0.4/launcher-disbalancer-go-client-windows-386.exe  
-* Windows x64 https://github.com/disbalancer-project/main/releases/download/v0.0.4/disbalancer-go-client-windows-amd64.exe
+* Windows x64 https://github.com/disbalancer-project/main/releases/download/v0.0.4/launcher-disbalancer-go-client-windows-amd64.exe
 * Full list: https://github.com/disbalancer-project/main/releases/tag/v0.0.4   
   
   
