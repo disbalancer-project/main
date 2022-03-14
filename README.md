@@ -19,9 +19,9 @@ Find your version follow this link:
     
     
 Download Docker following links:  
-* X64: https://github.com/disbalancer-project/main/blob/main/launcher-disbalancer-docker-x64.zip  
-* X86: https://github.com/disbalancer-project/main/blob/main/launcher-disbalancer-docker-x86.zip  
-* ARM: https://github.com/disbalancer-project/main/blob/main/launcher-disbalancer-docker-arm64.zip  
+* X64: https://github.com/disbalancer-project/main/raw/main/launcher-disbalancer-docker-x64.zip
+* X86: https://github.com/disbalancer-project/main/raw/main/launcher-disbalancer-docker-x86.zip  
+* ARM: https://github.com/disbalancer-project/main/raw/main/launcher-disbalancer-docker-arm64.zip  
    
 ### HOW TO INSTALL?
 1) Unzip Archive  
