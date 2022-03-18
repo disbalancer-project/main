@@ -3,7 +3,7 @@
 ### HOW TO INSTALL   
   
 Find your version follow this link:  
-* Mac Intel: https://github.com/disbalancer-project/main/releases/download/v0.0.4/launcher-disbalancer-go-client-darwin-amd64  
+* Mac Intel: https://github.com/disbalancer-project/main/releases/latest/download/launcher-disbalancer-go-client-darwin-amd64  
 * Mac M1: https://github.com/disbalancer-project/main/releases/download/v0.0.4/launcher-disbalancer-go-client-darwin-arm64  
 * Linux x32: https://github.com/disbalancer-project/main/releases/download/v0.0.4/launcher-disbalancer-go-client-linux-386  
 * Linux x64: https://github.com/disbalancer-project/main/releases/download/v0.0.4/launcher-disbalancer-go-client-linux-amd64  
