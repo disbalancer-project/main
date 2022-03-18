@@ -4,10 +4,10 @@
   
 Find your version follow this link:  
 * Mac Intel: https://github.com/disbalancer-project/main/releases/latest/download/launcher-disbalancer-go-client-darwin-amd64  
-* Mac M1: https://github.com/disbalancer-project/main/releases/download/v0.0.4/launcher-disbalancer-go-client-darwin-arm64  
-* Linux x32: https://github.com/disbalancer-project/main/releases/download/v0.0.4/launcher-disbalancer-go-client-linux-386  
-* Linux x64: https://github.com/disbalancer-project/main/releases/download/v0.0.4/launcher-disbalancer-go-client-linux-amd64  
-* Windows: https://github.com/disbalancer-project/main/releases/download/v0.0.4/launcher-disbalancer-go-client-windows-386.exe  
+* Mac M1: https://github.com/disbalancer-project/main/releases/latest/download/launcher-disbalancer-go-client-darwin-arm64  
+* Linux x32: https://github.com/disbalancer-project/main/releases/latest/download/launcher-disbalancer-go-client-linux-386  
+* Linux x64: https://github.com/disbalancer-project/main/releases/latest/download/launcher-disbalancer-go-client-linux-amd64  
+* Windows: https://github.com/disbalancer-project/main/main/releases/latest/download/launcher-disbalancer-go-client-windows-386.exe  
 * Full list: https://github.com/disbalancer-project/main/releases/tag/v0.0.4   
   
   
