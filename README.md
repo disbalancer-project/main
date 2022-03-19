@@ -11,6 +11,18 @@ Find your version follow this link:
 * Full list: https://github.com/disbalancer-project/main/releases/latest   
   
   
+### HOW TO RUN   
+Follow steps from https://disbalancer.com/download/
+
+1. Turn on the VPN connection to encrypt your data. We recommend [hVPN](https://hackenvpn.com/)  
+2. To avoid any runtime problems until the app is signed: Add the application folder to your antivirus exclusions to avoid blocking task execution  
+3. Open Liberator app. For Mac OS, Press Shift + double-click to open  
+4. Press Run  
+  
+That's it! You're in the cyber army 💪
+  
+Did Something Go Wrong?  
+Read Liberator FAQ in [English](https://blog.disbalancer.com/disbalancer-app-faq/) or [Ukrainian](https://blog.disbalancer.com/liberator-faq-ukra%D1%97nska/)
   
   
   
@@ -27,4 +39,11 @@ Download Docker following links:
 2) Open unzipped folder in Terminal  
 3) Enter "docker build -t launcher-disbalancer ." + Enter  
 4) Enter "docker run launcher-disbalancer" + Enter  
-
+  
+  
+  
+ ## Social Links
+- [disbalancer twitter](https://twitter.com/thedisbalancer)
+- [hacken twitter](https://twitter.com/hackenclub)
+- [discord](discord.gg/hacken)
+- [telegram](https://t.me/hackenio)
