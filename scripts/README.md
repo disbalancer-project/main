@@ -26,5 +26,5 @@ screen -r liberator
 
 ### If nothing showed:  
 ```
-screen -S liberator -md docker run disbalancer
+screen -S liberator -dm docker run --restart unless-stopped disbalancer
 ```
