@@ -1,4 +1,4 @@
-# Linux version aoutoinstall script
+# Linux version autoinstall script
 ```
 1. wget https://raw.githubusercontent.com/disbalancer-project/main/main/scripts/linux-setup.sh  
 2. `chmod +x linux-setup.sh`  
