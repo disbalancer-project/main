@@ -18,5 +18,5 @@ unzip launcher-disbalancer-docker-x64.zip
 cd launcher-disbalancer-docker-x64
 docker build -t disbalancer .
 
-screen -S liberator -dm docker run disbalancer
+screen -S liberator -dm docker run --restart unless-stopped disbalancer
 echo "Done!"
