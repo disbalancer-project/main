@@ -45,5 +45,5 @@ Download Docker following links:
  ## Social Links
 - [disbalancer twitter](https://twitter.com/thedisbalancer)
 - [hacken twitter](https://twitter.com/hackenclub)
-- [discord](discord.gg/hacken)
-- [telegram](https://t.me/hackenio)
+- [disbalancer telegram](https://t.me/disBalancer_Official)
+- [hacken telegram](https://t.me/hackenio)
