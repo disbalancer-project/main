@@ -39,6 +39,11 @@ Download Docker following links:
 2) Open unzipped folder in Terminal  
 3) Enter "docker build -t launcher-disbalancer ." + Enter  
 4) Enter "docker run launcher-disbalancer" + Enter  
+
+## disBalancer APP via dockerhub  
+
+1) `docker pull disbalancer/liberator:manifest-latest`  
+2) `docker run disbalancer/liberator:manifest-latest`
   
   
   
@@ -46,4 +51,5 @@ Download Docker following links:
 - [disbalancer twitter](https://twitter.com/thedisbalancer)
 - [hacken twitter](https://twitter.com/hackenclub)
 - [disbalancer telegram](https://t.me/disBalancer_Official)
-- [hacken telegram](https://t.me/hackenio)
+- [hacken telegram](https://t.me/hackenio)  
+- [dockerhub](https://hub.docker.com/repository/docker/disbalancer/liberator) 
