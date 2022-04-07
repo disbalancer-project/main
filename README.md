@@ -46,11 +46,7 @@ Download Docker following links:
 2) `docker run disbalancer/liberator:manifest-latest`
 
 ## Run disBalancer via Docker Compose
-1) Download `GeoLite2-Country.mmdb` database:
-
-``` shell
- wget https://git.io/GeoLite2-Country.mmdb
-```
+1) Download `docker-compose.yml` file
 
 2) Run application:
 
