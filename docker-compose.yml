@@ -6,5 +6,4 @@ services:
     deploy:
       restart_policy:
         condition: on-failure
-    volumes:
-      - ./GeoLite2-Country.mmdb:/app/GeoLite2-Country.mmdb
+    
