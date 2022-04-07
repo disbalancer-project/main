@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  disbalancer:
+    image: disbalancer/liberator:manifest-latest
+    pull_policy: always
+    deploy:
+      restart_policy:
+        condition: on-failure
+    
