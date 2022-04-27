@@ -42,8 +42,8 @@ Download Docker following links:
 
 ## disBalancer APP via dockerhub
 
-1) `docker pull disbalancer/liberator:manifest-latest`
-2) `docker run disbalancer/liberator:manifest-latest`
+1) `docker pull disbalancer/liberator:latest`
+2) `docker run disbalancer/liberator:latest`
 
 ## Run disBalancer via Docker Compose
 1) Download `docker-compose.yml` file
