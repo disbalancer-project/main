@@ -1,4 +1,4 @@
-#Liberator APP (Windows, Linux, Mac)
+# Liberator 🇺🇦 (Windows, Linux, Mac)
 ### HOW TO INSTALL
 
 Find your version follow this link:
