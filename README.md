@@ -1,5 +1,4 @@
-# main
-## disBalancer APP (Windows, Linux, Mac)
+#Liberator APP (Windows, Linux, Mac)
 ### HOW TO INSTALL
 
 Find your version follow this link:
